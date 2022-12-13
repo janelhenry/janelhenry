@@ -1,4 +1,4 @@
-### <div align="center">I'm Janel Henry, a full-stack developer 👩🏾‍💻 I've been working as a developer since 2021 🚀</div>  
+### <div align="center">I'm Janel Henry, a full-stack developer 👩🏾‍💻 I've been working as a developer since 2020 🚀</div>  
   
 
 - 🔭 I've been working with Node.js, MongoDB, and Git lately.  
